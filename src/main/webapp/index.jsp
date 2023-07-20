@@ -1,10 +1,12 @@
 <html>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CICD HERE</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
-	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">THIS IS last VERSION OF OUR APPLICATION</h1>	
+	<h1 style="color: violet; font-size: 20px;" align="center">Hey You </h1>
+	<h1 style="color: blue; font-size: 20px;" align="center">Ninne, I Am Going To Tell You Something</h1>
+	<h1 style="color: green; font-size: 20px;" align="center">You Want To Know That</h1>
+	<h1 style="color: yellow; font-size: 20px;" align="center">You Have To Wait For Some Time</h1>
+
+
+	<h1 style="color: red; font-size: 5px;" align="center">Em Ledu Velli Pani Chusko</h1>	
 	
 	
 	
